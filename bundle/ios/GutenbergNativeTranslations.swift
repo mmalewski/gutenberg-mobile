@@ -113,6 +113,7 @@ private func dummy() {
     _ = NSLocalizedString("Problem displaying block", comment: "")
     _ = NSLocalizedString("Problem opening the video", comment: "")
     _ = NSLocalizedString("Project Name", comment: "translators: sample content for \"Portfolio\" page template")
+    _ = NSLocalizedString("Remove %s", comment: "translators: %s: block title e.g: \"Paragraph\".")
     _ = NSLocalizedString("Remove annotations", comment: "")
     _ = NSLocalizedString("Remove Image", comment: "")
     _ = NSLocalizedString("Replace Current Block", comment: "")

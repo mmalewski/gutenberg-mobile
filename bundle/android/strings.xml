@@ -154,6 +154,8 @@ translators: sample content for "Services" page template -->
     <string name="gutenberg_native_project_name" tools:ignore="UnusedResources">Project Name</string>
     <string name="gutenberg_native_remove_annotations" tools:ignore="UnusedResources">Remove annotations</string>
     <string name="gutenberg_native_remove_image" tools:ignore="UnusedResources">Remove Image</string>
+    <!-- translators: %s: block title e.g: "Paragraph". -->
+    <string name="gutenberg_native_remove_s" tools:ignore="UnusedResources">Remove %s</string>
     <string name="gutenberg_native_replace_current_block" tools:ignore="UnusedResources">Replace Current Block</string>
     <string name="gutenberg_native_reset_block" tools:ignore="UnusedResources">Reset Block</string>
     <!-- translators: accessibility text for the media block empty state. %s: media type -->
